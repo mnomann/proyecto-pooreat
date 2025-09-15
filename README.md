@@ -20,7 +20,7 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
    * [Establishments with JUNAEB benefits](#Establishments-with-JUNAEB-benefits)
 6. [Strategy ](#-Strategy)
 
-   - [Value Proposition Canvas](#Value-Proposition-Canvas)
+   - [6.1 Value Proposition Canvas](#6.1-Value-Proposition-Canvas)
 
 ---
 
@@ -76,6 +76,6 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ## 📍 Strategy
 
-### Value Proposition Canvas
+### 6.1 Value Proposition Canvas
 
 
