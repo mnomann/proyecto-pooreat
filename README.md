@@ -29,7 +29,7 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
 * \[Hector Chavez]
 * \[Christian Muños]
 * \[Francisco Ceballos]
-* \[Esteban Cansino]
+* \[Esteban Cancino]
 
 ---
 
