@@ -24,7 +24,7 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
 
 ---
 
-## 👨‍💼 Team
+## 1. 👨‍💼 Team
 
 * \[Hector Chavez]
 * \[Christian Muños]
@@ -33,7 +33,7 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
 
 ---
 
-## 🍱 Overview
+## 2. 🍱 Overview
 
 **Pooreat** is an app designed to make it easy and accessible to search for and prepare recipes. The app not only allows you to explore a wide variety of recipes with detailed ingredients, but also offers practical information on where to purchase them, showing nearby establishments, updated prices, and availability.
 
@@ -41,13 +41,13 @@ An added value of **Pooreat** is that it helps students and users with the **JUN
 
 ---
 
-## 😵‍💫 Problem
+## 3. 😵‍💫 Problem
 
 
 
 ---
 
-## ⭐ Main Features
+## 4. ⭐ Main Features
 
 * Search for recipes with detailed ingredients.
 * View nearby establishments with availability and prices.
@@ -55,7 +55,7 @@ An added value of **Pooreat** is that it helps students and users with the **JUN
 * User-friendly and intuitive interface for a better user experience.
 ---
 
-## 📱 How to use the app
+## 5. 📱 How to use the app
 
 ### Search recipes
 
@@ -74,8 +74,8 @@ The app lists nearby establishments, along with prices and availability for each
 Establishments that support **JUNAEB** are prominently displayed.
 ---
 
-## 📍 Strategy
+## 6. 📍 Strategy
 
-### 6.1 Value Proposition Canvas
+### 6.1. Value Proposition Canvas
 
 
