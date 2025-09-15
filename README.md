@@ -1,6 +1,4 @@
----
-
-#  Pooreat
+# 🍱 Pooreat
 
 **Pooreat** es una aplicación diseñada para facilitar la búsqueda y preparación de recetas de cocina de manera sencilla y accesible. La app no solo permite explorar una amplia variedad de recetas con sus ingredientes detallados, sino que también ofrece información práctica sobre dónde adquirirlos, mostrando establecimientos cercanos, precios actualizados y disponibilidad.
 
