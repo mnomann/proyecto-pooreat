@@ -26,10 +26,10 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
 
 ## 1. 👨‍💼 Team
 
-* \[Hector Chavez]
-* \[Christian Muños]
-* \[Francisco Ceballos]
-* \[Esteban Cancino]
+* \[Hector Chavez] -> Designer
+* \[Christian Muños] ->
+* \[Francisco Ceballos] ->
+* \[Esteban Cancino] ->
 
 ---
 
