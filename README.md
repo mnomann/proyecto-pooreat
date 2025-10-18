@@ -1,11 +1,11 @@
 
-# 📘 PoorEat
+#  PoorEat
 
 Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios a organizar sus comidas y gastos en un solo lugar.
 
 ---
 
-## 📑 Index
+##  Index
 
 
 1. [Team](#-Team)
@@ -21,10 +21,13 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
 6. [Strategy ](#-Strategy)
 
    - [6.1 Value Proposition Canvas](#6.1-Value-Proposition-Canvas)
+   - [6.2 UX Persona](#6.2-UX-Persona)
+   - [6.3 Benchmarking](#6.3-Benchmarking)
+
 
 ---
 
-## 1. 👨‍💼 Team
+## 1.  Team
 
 * \[Hector Chavez] -> Designer
 * \[Christian Muños] ->
@@ -33,7 +36,7 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
 
 ---
 
-## 2. 🍱 Overview
+## 2.  Overview
 
 **Pooreat** is an app designed to make it easy and accessible to search for and prepare recipes. The app not only allows you to explore a wide variety of recipes with detailed ingredients, but also offers practical information on where to purchase them, showing nearby establishments, updated prices, and availability.
 
@@ -45,7 +48,7 @@ An added value of **Pooreat** is that it helps students and users with the **JUN
 
 ---
 
-## 3. 😵‍💫 Problem
+## 3.  Problem
 
 Meal planning and managing the food budget represent a significant challenge for university students. This group, often operating with limited income and little free time, faces a series of frictions that **PoorEat** aims to solve:
 
@@ -64,7 +67,7 @@ Meal planning and managing the food budget represent a significant challenge for
 
 ---
 
-## 4. ⭐ Main Features
+## 4.  Main Features
 
 * Search for recipes with detailed ingredients.
 * View nearby establishments with availability and prices.
@@ -72,7 +75,7 @@ Meal planning and managing the food budget represent a significant challenge for
 * User-friendly and intuitive interface for a better user experience.
 ---
 
-## 5. 📱 How to use the app
+## 5.  How to use the app
 
 ### Search recipes
 
@@ -92,8 +95,21 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ---
 
-## 6. 📍 Strategy
+## 6.  Strategy
 
 ### 6.1. Value Proposition Canvas
 
+### 6.2. UX Persona
+
+### 6.3. Benchmarking
+
+---
+
+## 7.  Stucture
+
+### 7.1. Navigation Flow
+
+---
+
+## 8.  Skeleton
 
