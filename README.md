@@ -1,7 +1,7 @@
 
 #  PoorEat
 
-Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios a organizar sus comidas y gastos en un solo lugar.
+Pooreat centralizes the cooking and shopping experience, helping users organize their meals and expenses in one place.
 
 ---
 
