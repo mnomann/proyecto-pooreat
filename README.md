@@ -18,12 +18,24 @@ Pooreat centraliza la experiencia de cocinar y comprar, ayudando a los usuarios 
    * [View ingredients](#View-ingredients)
    * [Check establishments and prices](#Check-establishments-and-prices)
    * [Establishments with JUNAEB benefits](#Establishments-with-JUNAEB-benefits)
+  
 6. [Strategy ](#-Strategy)
 
    - [6.1 Value Proposition Canvas](#6.1-Value-Proposition-Canvas)
    - [6.2 UX Persona](#6.2-UX-Persona)
    - [6.3 Benchmarking](#6.3-Benchmarking)
+  
+7. [Scope](#-Scope)
 
+   - [7.1 Customer Journey Map](#7.1-Customer-Journey-Map)
+  
+8. [Stucture ](#-Stucture)
+
+   - [8.1 Navigation Flow](#8.1-Navigation-Flow)
+  
+9. [Skeleton ](#-Skeleton)
+
+   - [9.1 Low-Fi Wireframes](#9.1-Low-Fi-Wireframes)
 
 ---
 
@@ -77,19 +89,19 @@ Meal planning and managing the food budget represent a significant challenge for
 
 ## 5.  How to use the app
 
-### Search recipes
+### - Search recipes
 
 Browse the catalog of available recipes by category or ingredients.
 
-### View ingredients
+### - View ingredients
 
 Each recipe shows the required ingredients, along with quantities and preparation instructions.
 
-### Check establishments and prices
+### - Check establishments and prices
 
 The app lists nearby establishments, along with prices and availability for each product.
 
-### Establishments with JUNAEB benefits
+### - Establishments with JUNAEB benefits
 
 Establishments that support **JUNAEB** are prominently displayed.
 
@@ -97,19 +109,39 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ## 6.  Strategy
 
-### 6.1. Value Proposition Canvas
+### 6.1 Value Proposition Canvas
 
-### 6.2. UX Persona
+![Value Proposition Canvas](assets/value-canvaspng.png)
 
-### 6.3. Benchmarking
+### 6.2 UX Persona
+
+![UX Persona Camila Rodriguez](assets/UX-Persona-Camila-Rodriguez.jpg)
+![UX Persona Henrique Gonzales](assets/UX-Persona-Henrique-Gonzales.png)
+![UX Persona Javier Herrera](assets/UX-Persona-Javier-Herrera.jpg)
+
+### 6.3 Benchmarking
+
+![Benchmarking](assets/PoorEatBenchmark.png)
 
 ---
 
-## 7.  Stucture
+## 7. Scope
 
-### 7.1. Navigation Flow
+### 7.1 Customer Journey Map
+
+![Customer Journey Map](assets/Customer_Journey_Map_Whiteboard.png)
 
 ---
 
-## 8.  Skeleton
+## 8.  Stucture
+
+### 8.1 Navigation Flow
+
+![Navigation Flow](assets/Navigation_Flow.png)
+
+---
+
+## 9.  Skeleton
+
+### 9.1 Low-Fi Wireframes
 
