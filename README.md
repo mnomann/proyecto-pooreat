@@ -72,6 +72,7 @@ The app lists nearby establishments, along with prices and availability for each
 ### Establishments with JUNAEB benefits
 
 Establishments that support **JUNAEB** are prominently displayed.
+
 ---
 
 ## 6. 📍 Strategy
