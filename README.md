@@ -5,37 +5,36 @@ Pooreat centralizes the cooking and shopping experience, helping users organize 
 
 ---
 
-##  Index
+## Index
 
+1. [Team](#1-team)
+2. [Overview](#2-overview)
+3. [Problem](#3-problem)
+4. [Main Features](#4-main-features)
+5. [How to use the app](#5-how-to-use-the-app)
 
-1. [Team](#-Team)
-2. [Overview](#-Overview)
-3. [Problem](#-Problem)
-4. [Main Features](#-Main-Features)
-5. [How to use the app](#-How-to-use-the-app)
+    * [Search recipes](#search-recipes)
+    * [View ingredients](#view-ingredients)
+    * [Check establishments and prices](#check-establishments-and-prices)
+    * [Establishments with JUNAEB benefits](#establishments-with-junaeb-benefits)
+    
+6. [Strategy](#6-strategy)
 
-   * [Search recipes](#Search-recipes)
-   * [View ingredients](#View-ingredients)
-   * [Check establishments and prices](#Check-establishments-and-prices)
-   * [Establishments with JUNAEB benefits](#Establishments-with-JUNAEB-benefits)
-  
-6. [Strategy ](#-Strategy)
+    * [6.1 Value Proposition Canvas](#61-value-proposition-canvas)
+    * [6.2 UX Persona](#62-ux-persona)
+    * [6.3 Benchmarking](#63-benchmarking)
+    
+7. [Scope](#7-scope)
 
-   - [6.1 Value Proposition Canvas](#6.1-Value-Proposition-Canvas)
-   - [6.2 UX Persona](#6.2-UX-Persona)
-   - [6.3 Benchmarking](#6.3-Benchmarking)
-  
-7. [Scope](#-Scope)
+    * [7.1 Customer Journey Map](#71-customer-journey-map)
+    
+8. [Stucture](#8-stucture)
 
-   - [7.1 Customer Journey Map](#7.1-Customer-Journey-Map)
-  
-8. [Stucture ](#-Stucture)
+    * [8.1 Navigation Flow](#81-navigation-flow)
+    
+9. [Skeleton](#9-skeleton)
 
-   - [8.1 Navigation Flow](#8.1-Navigation-Flow)
-  
-9. [Skeleton ](#-Skeleton)
-
-   - [9.1 Low-Fi Wireframes](#9.1-Low-Fi-Wireframes)
+    * [9.1 Low-Fi Wireframes](#91-low-fi-wireframes)
 
 ---
 
