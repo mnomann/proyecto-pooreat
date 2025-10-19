@@ -145,3 +145,4 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ### 9.1 Low-Fi Wireframes
 
+[Ver Wireframes](docs/Wireframes-PoorEat.pdf)
