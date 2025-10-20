@@ -34,6 +34,10 @@ Pooreat centralizes the cooking and shopping experience, helping users organize 
 9. [Skeleton](#9-skeleton)
 
     * [9.1 Low-Fi Wireframes](#91-low-fi-wireframes)
+  
+10. [Surface](#10-Surface)
+
+    * [10.1 High Definition Interfaces](#101-High-Definition-Interfaces)
 
 ---
 
@@ -141,4 +145,12 @@ Establishments that support **JUNAEB** are prominently displayed.
 ### 9.1 Low-Fi Wireframes
 
 [Ver Wireframes](docs/Wireframes-PoorEat.pdf)
+
+---
+
+## 10. Surface
+
+### 10.1 High Definition Interfaces
+
+[Ver Mockups](docs/Mockups.pdf)
 
