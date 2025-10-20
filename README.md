@@ -43,10 +43,10 @@ Pooreat centralizes the cooking and shopping experience, helping users organize 
 
 ## 1. Team
 
-* [Hector Chavez] -> Designer
-* [Christian Muños] ->
+* [Hector Chavez] -> UX Designer
+* [Christian Muños] -> Project Manager
 * [Francisco Ceballos] -> UX Designer
-* [Esteban Cancino] ->
+* [Esteban Cancino] -> UX Researcher
 
 ---
 
