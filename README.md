@@ -45,7 +45,7 @@ Pooreat centralizes the cooking and shopping experience, helping users organize 
 
 * [Hector Chavez] -> Designer
 * [Christian Muños] ->
-* [Francisco Ceballos] ->
+* [Francisco Ceballos] -> UX Designer
 * [Esteban Cancino] ->
 
 ---
