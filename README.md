@@ -144,7 +144,7 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ### 9.1 Low-Fi Wireframes
 
-[Ver Wireframes](docs/Wireframes-PoorEat.pdf)
+[View Wireframes](docs/Wireframes-PoorEat.pdf)
 
 ---
 
@@ -152,5 +152,5 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ### 10.1 High Definition Interfaces
 
-[Ver Mockups](docs/Mockups.pdf)
+[View Mockups](docs/Mockups.pdf)
 
