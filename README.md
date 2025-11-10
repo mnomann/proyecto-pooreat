@@ -2,6 +2,8 @@
 
 Pooreat centralizes the cooking and shopping experience, helping users organize their meals and expenses in one place.
 
+https://www.figma.com/design/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=0-1&t=9mrSOadL0mFG1qtD-1
+
 ---
 
 ## Index
