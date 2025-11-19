@@ -46,7 +46,7 @@ https://www.figma.com/design/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=0-1&t=9m
 ## 1. Team
 
 * [Hector Chavez] -> UX Designer
-* [Christian Muños] -> Project Manager
+* [Christian Muñoz] -> Project Manager
 * [Francisco Ceballos] -> UX Designer
 * [Esteban Cancino] -> UX Researcher
 
