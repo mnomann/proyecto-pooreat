@@ -168,4 +168,4 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ## 11. heuristic evaluation
 
-[View heuristic evaluation](docs/POOREAT-evalución-hecha-por-PETCONNECT.pdf)
+[View heuristic evaluation](docs/POOREAT-(evalución-hecha-por-PETCONNECT).pdf)
