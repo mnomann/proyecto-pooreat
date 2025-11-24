@@ -2,7 +2,11 @@
 
 Pooreat centralizes the cooking and shopping experience, helping users organize their meals and expenses in one place.
 
+Link repository Figma:
 https://www.figma.com/design/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=0-1&t=9mrSOadL0mFG1qtD-1
+
+Link navigable prototype:
+https://www.figma.com/proto/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=57-1036&p=f&t=x9NzR4WKN7qkjPii-0&scaling=scale-down&content-scaling=fixed&page-id=57%3A1035
 
 ---
 
