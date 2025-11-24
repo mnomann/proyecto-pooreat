@@ -42,6 +42,8 @@ https://www.figma.com/design/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=0-1&t=9m
     * [10.1 High Definition Interfaces](#101-High-Definition-Interfaces)
    
     * [10.2 Final High Definition Interfaces](#102-Final-High-Definition-Interfaces)
+   
+11. [heuristic evaluation](#11-heuristic-evaluation) 
 
 ---
 
@@ -161,3 +163,9 @@ Establishments that support **JUNAEB** are prominently displayed.
 ### 10.2 Final High Definition Interfaces
 
 [View Final Interfaces](docs/Final-Interfaces.pdf)
+
+---
+
+## 11. heuristic evaluation
+
+[View heuristic evaluation](docs/POOREAT-evalución-hecha-por-PETCONNECT).pdf)
