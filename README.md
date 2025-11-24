@@ -1,4 +1,4 @@
-# PoorEat
+# ThriftyChef (ex PoorEat)
 
 Pooreat centralizes the cooking and shopping experience, helping users organize their meals and expenses in one place.
 
