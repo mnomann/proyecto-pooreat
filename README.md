@@ -40,6 +40,8 @@ https://www.figma.com/design/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=0-1&t=9m
 10. [Surface](#10-Surface)
 
     * [10.1 High Definition Interfaces](#101-High-Definition-Interfaces)
+   
+    * [10.2 Final High Definition Interfaces](#102-Final-High-Definition-Interfaces)
 
 ---
 
@@ -156,3 +158,6 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 [View Mockups](docs/Mockups.pdf)
 
+### 10.2 Final High Definition Interfaces
+
+[View Final Interfaces](docs/Final-Interfaces.pdf)
