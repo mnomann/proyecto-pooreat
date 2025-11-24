@@ -54,9 +54,9 @@ https://www.figma.com/design/rxNYEHFWvhtoeY0380oCaw/Prototipado?node-id=0-1&t=9m
 
 ## 2. Overview
 
-**Pooreat** is an app designed to make it easy and accessible to search for and prepare recipes. The app not only allows you to explore a wide variety of recipes with detailed ingredients, but also offers practical information on where to purchase them, showing nearby establishments, updated prices, and availability.
+**ThriftyChef** is an app designed to make it easy and accessible to search for and prepare recipes. The app not only allows you to explore a wide variety of recipes with detailed ingredients, but also offers practical information on where to purchase them, showing nearby establishments, updated prices, and availability.
 
-An added value of **Pooreat** is that it helps students and users with the **JUNAEB** benefit by indicating which establishments accept this payment method. In this way, it not only promotes healthy and varied eating but also optimizes the budget and time of those who use the app.
+An added value of **ThriftyChef** is that it helps students and users with the **JUNAEB** benefit by indicating which establishments accept this payment method. In this way, it not only promotes healthy and varied eating but also optimizes the budget and time of those who use the app.
 
 ---
 
