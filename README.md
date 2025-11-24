@@ -176,4 +176,4 @@ Establishments that support **JUNAEB** are prominently displayed.
 
 ## 12. Accessibility topics
 
-[View Accessibility topics]()
+[View Accessibility topics](docs/Temáticas-de-accesibilidad.pdf)
